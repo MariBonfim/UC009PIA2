@@ -1,0 +1,14 @@
+.contForm {
+    width: 80%;
+    max-width: 1200px;
+}
+
+.contFlex {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    list-style-type: none;
+    color: blue;
+}
+
